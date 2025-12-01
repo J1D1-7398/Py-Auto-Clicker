@@ -17,17 +17,17 @@ pip install keyboard
 
 ### Pyautogui library:
 Install with
-`
+```
 pip install pyautogui
-`
+```
 
 ## How to use
 Open Command Prompt and navigate to the directory where you have cloned/downloaded the repository.
 
 When you have reached the directory in Command Prompt type
-`
+```
 python main.py
-`
+```
 
 ✅ It should work fine!
 
