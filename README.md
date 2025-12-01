@@ -10,7 +10,10 @@ Check https://github.com/J1D1-7398/Python-Installation-Tutorial for a full tutor
 
 ### Keyboard library:
 
-Install with ```pip install keyboard```
+Install with 
+```
+pip install keyboard
+```
 
 ### Pyautogui library:
 Install with `pip install pyautogui`
