@@ -10,18 +10,24 @@ Check https://github.com/J1D1-7398/Python-Installation-Tutorial for a full tutor
 
 ### Keyboard library:
 
-Install with 
+Install with
 ```
 pip install keyboard
 ```
 
 ### Pyautogui library:
-Install with `pip install pyautogui`
+Install with
+`
+pip install pyautogui
+`
 
 ## How to use
 Open Command Prompt and navigate to the directory where you have cloned/downloaded the repository.
 
-When you have reached the directory in Command Prompt type `python main.py`
+When you have reached the directory in Command Prompt type
+`
+python main.py
+`
 
 ✅ It should work fine!
 
